@@ -5,7 +5,7 @@
   <img src="https://profile-counter.glitch.me/nitinshh/count.svg" />
 </p> 
 <h1 align="center">Hi 👋, I'm Nitin Sharma</h1>
-<h3 align="center">Java Developer with experience in MERN Stack, Passionate about nature photography, editing, and problem-solving...</h3>
+<h3 align="center">MERN Stack Developer | Passionate About Basketball & Football | Problem-Solving Enthusiast</h3>
    
 <img align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">  
 
